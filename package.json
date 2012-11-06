@@ -1,0 +1,9 @@
+{
+  "name": "tilemill-tablesort",
+  "description": "Sort columns on data tables",
+  "version": "0.1.0",
+  "engines": {
+    "tilemill": "~0.10"
+  },
+  "keywords": ["tilemill"]
+}
